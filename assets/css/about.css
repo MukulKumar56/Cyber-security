@@ -1,0 +1,15 @@
+.pf{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.pf img{
+    height: 20vh;
+}
+.profile{
+    border: 4px solid black;
+    border-radius: 225px;
+    margin-left: 30px;
+
+}
